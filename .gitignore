@@ -20,6 +20,7 @@ env/
 *.zip
 *.npz
 *.txt
+*.tif
 .ipynb_checkpoints/
 out/Outdata/igmas/non_border/
 out/Outdata/igmas/IGMAS/
