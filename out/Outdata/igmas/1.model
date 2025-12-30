@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE geodata SYSTEM "geodata.dtd"> -->
+<geodata name="New Model">
+   <projection name="unknown" units="km"></projection>
+   <magnetic_field units="nT" total_field="49441.0" inclination="69.0" declination="1.0"></magnetic_field>
+   <property name="body" value="crust">
+      <property name="voxel mzz" units="km³" value="6058682.4846903505"></property>
+      <property name="density" units="t/m³" value="2.953"></property>
+      <color red="0.1764706" green="0.9254902" blue="0.16862746"></color>
+   </property>
+   <property name="body" value="new_body">
+      <property name="density" units="t/m³" value="0.0"></property>
+      <color red="0.0" green="1.0" blue="0.0"></color>
+   </property>
+   <property name="body" value="reference">
+      <property name="density" units="t/m³" value="2.953"></property>
+      <color red="0.5019608" green="0.5019608" blue="0.5019608"></color>
+   </property>
+   <property name="body" value="upper_mantle">
+      <property name="voxel mzz" units="km³" value="8566317.52649943"></property>
+      <property name="density" units="t/m³" value="3.317"></property>
+      <color red="0.4117647" green="0.08627451" blue="0.12941177"></color>
+   </property>
+   <geometry>
+      <cross_section name="16" x_start="0.0" y_start="15.0" x_end="650.0" y_end="15.0"></cross_section>
+      <vertex id="387" x="484.60583" z="-19.149954"></vertex>
+      <vertex id="386" x="497.9297" z="-20.342352"></vertex>
+      <vertex id="385" x="513.1655" z="-15.672125"></vertex>
+      <vertex id="384" x="527.01697" z="-17.887707"></vertex>
+      <vertex id="383" x="543.8279" z="-22.231272"></vertex>
+      <vertex id="382" x="557.7743" z="-21.405605"></vertex>
+      <vertex id="381" x="573.5393" z="-21.136915"></vertex>
+      <vertex id="380" x="591.4762" z="-22.662079"></vertex>
+      <vertex id="379" x="617.0253" z="-22.44351"></vertex>
+      <vertex id="378" x="650.0397" z="-20.344099"></vertex>
+      <vertex id="377" x="637.7433" z="-17.529959"></vertex>
+      <vertex id="494" x="108.33333" z="-50.0"></vertex>
+      <vertex id="495" x="0.0" z="-50.0"></vertex>
+      <vertex id="452" x="650.0" z="0.0"></vertex>
+      <vertex id="451" x="108.33333" z="0.0"></vertex>
+      <vertex id="450" x="0.0" z="0.0"></vertex>
+      <vertex id="496" x="650.0" z="-50.0"></vertex>
+      <vertex id="410" x="-0.22257496" z="-24.956335"></vertex>
+      <vertex id="409" x="31.288492" z="-22.446932"></vertex>
+      <vertex id="408" x="70.80108" z="-22.897017"></vertex>
+      <vertex id="407" x="100.1847" z="-21.688099"></vertex>
+      <vertex id="406" x="137.74654" z="-19.779871"></vertex>
+      <vertex id="405" x="164.31023" z="-15.8263035"></vertex>
+      <vertex id="404" x="199.93594" z="-20.736935"></vertex>
+      <vertex id="403" x="222.7997" z="-17.976265"></vertex>
+      <vertex id="402" x="233.84416" z="-22.551052"></vertex>
+      <vertex id="401" x="246.89427" z="-18.694435"></vertex>
+      <vertex id="400" x="264.63672" z="-19.869633"></vertex>
+      <vertex id="399" x="284.28476" z="-18.71251"></vertex>
+      <vertex id="398" x="299.87946" z="-10.204456"></vertex>
+      <vertex id="397" x="312.59207" z="-12.8366585"></vertex>
+      <vertex id="396" x="328.1973" z="-11.810953"></vertex>
+      <vertex id="395" x="341.4577" z="-9.6366415"></vertex>
+      <vertex id="394" x="354.10303" z="-13.700186"></vertex>
+      <vertex id="393" x="370.6354" z="-11.196908"></vertex>
+      <vertex id="392" x="393.1794" z="-14.779597"></vertex>
+      <vertex id="391" x="410.44693" z="-14.806731"></vertex>
+      <vertex id="390" x="430.4172" z="-16.451994"></vertex>
+      <vertex id="389" x="445.841" z="-19.490295"></vertex>
+      <vertex id="388" x="463.38617" z="-13.885604"></vertex>
+      <entry type="polygon" id_list="409 408 407 406 405 404 403 402 401 400 399 398 397 396 
+         395 394 393 392 391 390 389 388 387 386 385 384 383 382 381 
+         380 379 377 378 452 451 450 410 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="377 379 380 381 382 383 384 385 386 387 388 389 390 391 
+         392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 
+         407 408 409 410 495 494 496 378 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="15" x_start="0.0" y_start="37.0" x_end="650.0" y_end="37.0"></cross_section>
+      <vertex id="449" x="650.0" z="0.0"></vertex>
+      <vertex id="376" x="-0.22257496" z="-23.764286"></vertex>
+      <vertex id="375" x="31.288492" z="-21.09744"></vertex>
+      <vertex id="374" x="70.80108" z="-22.708698"></vertex>
+      <vertex id="373" x="100.1847" z="-19.988918"></vertex>
+      <vertex id="372" x="138.21758" z="-21.215935"></vertex>
+      <vertex id="371" x="165.01678" z="-17.250198"></vertex>
+      <vertex id="370" x="199.93594" z="-17.646008"></vertex>
+      <vertex id="369" x="224.7855" z="-17.470802"></vertex>
+      <vertex id="368" x="247.28192" z="-17.017183"></vertex>
+      <vertex id="367" x="265.37875" z="-15.407851"></vertex>
+      <vertex id="366" x="284.28476" z="-15.961869"></vertex>
+      <vertex id="365" x="300.2726" z="-17.904263"></vertex>
+      <vertex id="364" x="314.96588" z="-14.75529"></vertex>
+      <vertex id="363" x="328.89456" z="-13.508494"></vertex>
+      <vertex id="362" x="343.9159" z="-17.472158"></vertex>
+      <vertex id="361" x="356.6379" z="-14.076332"></vertex>
+      <vertex id="360" x="370.1301" z="-14.070965"></vertex>
+      <vertex id="359" x="392.73224" z="-15.542754"></vertex>
+      <vertex id="358" x="410.44693" z="-14.927708"></vertex>
+      <vertex id="357" x="431.5882" z="-13.762857"></vertex>
+      <vertex id="356" x="446.91443" z="-19.893406"></vertex>
+      <vertex id="355" x="463.5216" z="-14.727185"></vertex>
+      <vertex id="354" x="483.94" z="-18.002169"></vertex>
+      <vertex id="353" x="497.8893" z="-18.245"></vertex>
+      <vertex id="352" x="513.42975" z="-17.529985"></vertex>
+      <vertex id="351" x="527.01697" z="-21.711702"></vertex>
+      <vertex id="350" x="542.46075" z="-17.199823"></vertex>
+      <vertex id="349" x="557.9391" z="-22.415766"></vertex>
+      <vertex id="348" x="572.70984" z="-22.141169"></vertex>
+      <vertex id="347" x="590.5657" z="-20.603891"></vertex>
+      <vertex id="346" x="617.2739" z="-21.618746"></vertex>
+      <vertex id="345" x="650.0397" z="-20.344099"></vertex>
+      <vertex id="344" x="637.7433" z="-19.105022"></vertex>
+      <vertex id="447" x="0.0" z="0.0"></vertex>
+      <vertex id="448" x="108.33333" z="0.0"></vertex>
+      <vertex id="493" x="0.0" z="-50.0"></vertex>
+      <vertex id="492" x="108.33333" z="-50.0"></vertex>
+      <vertex id="491" x="650.0" z="-50.0"></vertex>
+      <entry type="polygon" id_list="375 374 373 372 371 370 369 368 367 366 365 364 363 362 
+         361 360 359 358 357 356 355 354 353 352 351 350 349 348 347 
+         346 344 345 449 448 447 376 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="344 346 347 348 349 350 351 352 353 354 355 356 357 358 
+         359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 
+         374 375 376 493 492 491 345 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="4" x_start="0.0" y_start="75.0" x_end="650.0" y_end="75.0"></cross_section>
+      <vertex id="446" x="650.0" z="0.0"></vertex>
+      <vertex id="445" x="108.33333" z="0.0"></vertex>
+      <vertex id="444" x="0.0" z="0.0"></vertex>
+      <vertex id="343" x="-0.22257496" z="-25.904928"></vertex>
+      <vertex id="342" x="31.288492" z="-21.931576"></vertex>
+      <vertex id="341" x="70.80108" z="-21.7982"></vertex>
+      <vertex id="340" x="100.1847" z="-21.709513"></vertex>
+      <vertex id="339" x="138.21758" z="-19.896378"></vertex>
+      <vertex id="338" x="165.01678" z="-21.093248"></vertex>
+      <vertex id="337" x="199.93594" z="-19.10272"></vertex>
+      <vertex id="336" x="224.7855" z="-16.486164"></vertex>
+      <vertex id="335" x="247.28192" z="-17.541267"></vertex>
+      <vertex id="334" x="265.37875" z="-17.172405"></vertex>
+      <vertex id="333" x="284.28476" z="-16.651756"></vertex>
+      <vertex id="332" x="300.2726" z="-20.17837"></vertex>
+      <vertex id="331" x="314.96588" z="-18.529478"></vertex>
+      <vertex id="330" x="328.89456" z="-18.494577"></vertex>
+      <vertex id="329" x="343.9159" z="-23.305943"></vertex>
+      <vertex id="328" x="356.6379" z="-19.994877"></vertex>
+      <vertex id="327" x="370.1301" z="-19.115208"></vertex>
+      <vertex id="326" x="392.73224" z="-18.272581"></vertex>
+      <vertex id="325" x="410.44693" z="-17.987427"></vertex>
+      <vertex id="324" x="431.5882" z="-16.407019"></vertex>
+      <vertex id="323" x="446.91443" z="-19.979797"></vertex>
+      <vertex id="322" x="463.5216" z="-15.241967"></vertex>
+      <vertex id="321" x="483.94" z="-20.477865"></vertex>
+      <vertex id="320" x="497.8893" z="-17.258287"></vertex>
+      <vertex id="319" x="513.42975" z="-19.958752"></vertex>
+      <vertex id="318" x="527.01697" z="-20.14426"></vertex>
+      <vertex id="317" x="542.46075" z="-21.007488"></vertex>
+      <vertex id="316" x="557.9391" z="-21.197113"></vertex>
+      <vertex id="315" x="572.70984" z="-21.78286"></vertex>
+      <vertex id="314" x="590.5657" z="-21.937616"></vertex>
+      <vertex id="313" x="617.2739" z="-21.966883"></vertex>
+      <vertex id="312" x="650.0397" z="-20.344099"></vertex>
+      <vertex id="311" x="637.7433" z="-22.884226"></vertex>
+      <vertex id="490" x="0.0" z="-50.0"></vertex>
+      <vertex id="489" x="108.33333" z="-50.0"></vertex>
+      <vertex id="488" x="650.0" z="-50.0"></vertex>
+      <entry type="polygon" id_list="342 341 340 339 338 337 336 335 334 333 332 331 330 329 
+         328 327 326 325 324 323 322 321 320 319 318 317 316 315 314 
+         313 311 312 446 445 444 343 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="311 313 314 315 316 317 318 319 320 321 322 323 324 325 
+         326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 
+         341 342 343 490 489 488 312 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="10" x_start="0.0" y_start="113.0" x_end="650.0" y_end="113.0"></cross_section>
+      <vertex id="290" x="446.91443" z="-19.47626"></vertex>
+      <vertex id="289" x="463.5216" z="-15.728213"></vertex>
+      <vertex id="288" x="483.94" z="-19.264475"></vertex>
+      <vertex id="287" x="497.8893" z="-16.4933"></vertex>
+      <vertex id="286" x="513.42975" z="-17.863173"></vertex>
+      <vertex id="285" x="527.01697" z="-19.544748"></vertex>
+      <vertex id="284" x="542.46075" z="-19.030058"></vertex>
+      <vertex id="283" x="557.9391" z="-21.944595"></vertex>
+      <vertex id="282" x="572.70984" z="-20.158188"></vertex>
+      <vertex id="281" x="590.5657" z="-19.889355"></vertex>
+      <vertex id="280" x="617.2739" z="-19.437311"></vertex>
+      <vertex id="279" x="650.0397" z="-20.344099"></vertex>
+      <vertex id="278" x="637.7433" z="-20.961319"></vertex>
+      <vertex id="485" x="650.0" z="-50.0"></vertex>
+      <vertex id="486" x="108.33333" z="-50.0"></vertex>
+      <vertex id="487" x="0.0" z="-50.0"></vertex>
+      <vertex id="443" x="650.0" z="0.0"></vertex>
+      <vertex id="442" x="108.33333" z="0.0"></vertex>
+      <vertex id="441" x="0.0" z="0.0"></vertex>
+      <vertex id="310" x="-0.22257496" z="-24.810402"></vertex>
+      <vertex id="309" x="31.288492" z="-21.50945"></vertex>
+      <vertex id="308" x="70.80108" z="-22.223318"></vertex>
+      <vertex id="307" x="100.1847" z="-23.15"></vertex>
+      <vertex id="306" x="138.21758" z="-19.919416"></vertex>
+      <vertex id="305" x="165.01678" z="-19.952894"></vertex>
+      <vertex id="304" x="199.93594" z="-17.358297"></vertex>
+      <vertex id="303" x="224.7855" z="-18.10597"></vertex>
+      <vertex id="302" x="247.28192" z="-19.547651"></vertex>
+      <vertex id="301" x="265.37875" z="-19.060324"></vertex>
+      <vertex id="300" x="284.28476" z="-21.613235"></vertex>
+      <vertex id="299" x="300.2726" z="-24.467903"></vertex>
+      <vertex id="298" x="314.96588" z="-23.857439"></vertex>
+      <vertex id="297" x="328.89456" z="-20.981787"></vertex>
+      <vertex id="296" x="343.9159" z="-25.616232"></vertex>
+      <vertex id="295" x="356.6379" z="-22.282648"></vertex>
+      <vertex id="294" x="370.1301" z="-22.20422"></vertex>
+      <vertex id="293" x="392.73224" z="-23.57922"></vertex>
+      <vertex id="292" x="410.44693" z="-19.382223"></vertex>
+      <vertex id="291" x="431.5882" z="-16.483706"></vertex>
+      <entry type="polygon" id_list="309 308 307 306 305 304 303 302 301 300 299 298 297 296 
+         295 294 293 292 291 290 289 288 287 286 285 284 283 282 281 
+         280 278 279 443 442 441 310 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="278 280 281 282 283 284 285 286 287 288 289 290 291 292 
+         293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 
+         308 309 310 487 486 485 279 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="5" x_start="0.0" y_start="150.0" x_end="650.0" y_end="150.0"></cross_section>
+      <vertex id="484" x="0.0" z="-50.0"></vertex>
+      <vertex id="483" x="216.66667" z="-50.0"></vertex>
+      <vertex id="482" x="650.0" z="-50.0"></vertex>
+      <vertex id="440" x="650.0" z="0.0"></vertex>
+      <vertex id="277" x="0.08543807" z="-24.587149"></vertex>
+      <vertex id="276" x="18.23685" z="-23.496265"></vertex>
+      <vertex id="275" x="41.095337" z="-21.280521"></vertex>
+      <vertex id="274" x="73.367744" z="-23.134087"></vertex>
+      <vertex id="273" x="104.20008" z="-23.41541"></vertex>
+      <vertex id="272" x="128.7906" z="-22.489004"></vertex>
+      <vertex id="271" x="146.40096" z="-24.374792"></vertex>
+      <vertex id="270" x="162.1455" z="-22.06549"></vertex>
+      <vertex id="269" x="192.84244" z="-19.34557"></vertex>
+      <vertex id="268" x="201.67421" z="-21.966732"></vertex>
+      <vertex id="267" x="216.74585" z="-21.1135"></vertex>
+      <vertex id="266" x="230.61208" z="-18.135637"></vertex>
+      <vertex id="265" x="246.33444" z="-17.94536"></vertex>
+      <vertex id="264" x="259.37854" z="-21.376589"></vertex>
+      <vertex id="263" x="274.55115" z="-21.304604"></vertex>
+      <vertex id="262" x="292.37442" z="-24.865734"></vertex>
+      <vertex id="261" x="312.70944" z="-28.764399"></vertex>
+      <vertex id="260" x="328.82193" z="-34.873726"></vertex>
+      <vertex id="259" x="341.22632" z="-35.912388"></vertex>
+      <vertex id="258" x="357.1682" z="-35.627296"></vertex>
+      <vertex id="257" x="370.99155" z="-34.403755"></vertex>
+      <vertex id="256" x="387.4876" z="-25.973606"></vertex>
+      <vertex id="255" x="399.68536" z="-32.06143"></vertex>
+      <vertex id="254" x="416.73987" z="-22.23106"></vertex>
+      <vertex id="253" x="441.9643" z="-19.355442"></vertex>
+      <vertex id="252" x="474.27927" z="-18.14478"></vertex>
+      <vertex id="251" x="502.47488" z="-17.536993"></vertex>
+      <vertex id="250" x="528.04224" z="-18.745432"></vertex>
+      <vertex id="249" x="560.4794" z="-20.521544"></vertex>
+      <vertex id="248" x="592.605" z="-19.39352"></vertex>
+      <vertex id="247" x="649.3426" z="-20.39139"></vertex>
+      <vertex id="246" x="625.6084" z="-18.84165"></vertex>
+      <vertex id="439" x="216.66667" z="0.0"></vertex>
+      <vertex id="438" x="0.0" z="0.0"></vertex>
+      <entry type="polygon" id_list="276 275 274 273 272 271 270 269 268 267 266 265 264 263 
+         262 261 260 259 258 257 256 255 254 253 252 251 250 249 248 
+         246 247 440 439 438 277 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="246 248 249 250 251 252 253 254 255 256 257 258 259 260 
+         261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 
+         276 277 484 483 482 247 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="11" x_start="0.0" y_start="188.0" x_end="650.0" y_end="188.0"></cross_section>
+      <vertex id="481" x="0.0" z="-50.0"></vertex>
+      <vertex id="480" x="216.66667" z="-50.0"></vertex>
+      <vertex id="479" x="650.0" z="-50.0"></vertex>
+      <vertex id="437" x="650.0" z="0.0"></vertex>
+      <vertex id="435" x="0.0" z="0.0"></vertex>
+      <vertex id="436" x="216.66667" z="0.0"></vertex>
+      <vertex id="245" x="0.08543807" z="-23.16601"></vertex>
+      <vertex id="244" x="18.23685" z="-21.78581"></vertex>
+      <vertex id="243" x="41.095337" z="-23.086573"></vertex>
+      <vertex id="242" x="73.367744" z="-24.595064"></vertex>
+      <vertex id="241" x="104.20008" z="-23.434824"></vertex>
+      <vertex id="240" x="128.7906" z="-22.466436"></vertex>
+      <vertex id="239" x="146.40096" z="-22.178509"></vertex>
+      <vertex id="238" x="162.1455" z="-25.272106"></vertex>
+      <vertex id="237" x="192.84244" z="-21.416578"></vertex>
+      <vertex id="236" x="201.67421" z="-23.858698"></vertex>
+      <vertex id="235" x="216.74585" z="-19.449005"></vertex>
+      <vertex id="234" x="230.61208" z="-21.096943"></vertex>
+      <vertex id="233" x="246.33444" z="-19.134905"></vertex>
+      <vertex id="232" x="259.37854" z="-21.596"></vertex>
+      <vertex id="231" x="274.55115" z="-21.697119"></vertex>
+      <vertex id="230" x="292.37442" z="-20.888458"></vertex>
+      <vertex id="229" x="312.70944" z="-22.250072"></vertex>
+      <vertex id="228" x="328.82193" z="-30.717272"></vertex>
+      <vertex id="227" x="341.22632" z="-32.707027"></vertex>
+      <vertex id="226" x="357.1682" z="-35.63738"></vertex>
+      <vertex id="225" x="370.99155" z="-35.032616"></vertex>
+      <vertex id="224" x="387.4876" z="-26.389652"></vertex>
+      <vertex id="223" x="399.68536" z="-32.696575"></vertex>
+      <vertex id="222" x="416.73987" z="-22.708645"></vertex>
+      <vertex id="221" x="441.9643" z="-23.361736"></vertex>
+      <vertex id="220" x="474.27927" z="-16.731712"></vertex>
+      <vertex id="219" x="502.47488" z="-18.004978"></vertex>
+      <vertex id="218" x="528.04224" z="-19.433594"></vertex>
+      <vertex id="217" x="560.4794" z="-19.61234"></vertex>
+      <vertex id="216" x="592.605" z="-20.180113"></vertex>
+      <vertex id="215" x="625.6084" z="-19.284351"></vertex>
+      <vertex id="214" x="649.3426" z="-20.39139"></vertex>
+      <entry type="polygon" id_list="244 243 242 241 240 239 238 237 236 235 234 233 232 231 
+         230 229 228 227 226 225 224 223 222 221 220 219 218 217 216 
+         215 214 437 436 435 245 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="215 216 217 218 219 220 221 222 223 224 225 226 227 228 
+         229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 
+         244 245 481 480 479 214 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="6" x_start="0.0" y_start="225.0" x_end="650.0" y_end="225.0"></cross_section>
+      <vertex id="193" x="501.92633" z="-17.412798"></vertex>
+      <vertex id="192" x="531.5161" z="-17.509377"></vertex>
+      <vertex id="191" x="555.563" z="-21.414358"></vertex>
+      <vertex id="190" x="585.47797" z="-21.937063"></vertex>
+      <vertex id="189" x="613.13776" z="-20.97666"></vertex>
+      <vertex id="188" x="650.0" z="-20.782179"></vertex>
+      <vertex id="187" x="637.53503" z="-24.380966"></vertex>
+      <vertex id="477" x="325.0" z="-50.0"></vertex>
+      <vertex id="476" x="500.17014" z="-50.0"></vertex>
+      <vertex id="475" x="650.0" z="-50.0"></vertex>
+      <vertex id="478" x="0.0" z="-50.0"></vertex>
+      <vertex id="434" x="650.0" z="0.0"></vertex>
+      <vertex id="433" x="325.0" z="0.0"></vertex>
+      <vertex id="432" x="0.0" z="0.0"></vertex>
+      <vertex id="213" x="0.3497398" z="-26.022543"></vertex>
+      <vertex id="212" x="28.245333" z="-22.443361"></vertex>
+      <vertex id="211" x="82.1604" z="-24.576254"></vertex>
+      <vertex id="210" x="127.23941" z="-25.547571"></vertex>
+      <vertex id="209" x="162.30623" z="-26.63169"></vertex>
+      <vertex id="208" x="196.36972" z="-24.5363"></vertex>
+      <vertex id="207" x="224.3424" z="-20.89952"></vertex>
+      <vertex id="206" x="241.4061" z="-24.107668"></vertex>
+      <vertex id="205" x="261.9354" z="-19.246"></vertex>
+      <vertex id="204" x="279.4313" z="-17.269037"></vertex>
+      <vertex id="203" x="289.7981" z="-24.960632"></vertex>
+      <vertex id="202" x="299.37695" z="-16.097794"></vertex>
+      <vertex id="201" x="315.2563" z="-21.881334"></vertex>
+      <vertex id="200" x="331.56033" z="-16.631134"></vertex>
+      <vertex id="199" x="352.1136" z="-20.188734"></vertex>
+      <vertex id="198" x="369.60898" z="-21.602337"></vertex>
+      <vertex id="197" x="392.66287" z="-23.47331"></vertex>
+      <vertex id="196" x="417.97043" z="-27.113447"></vertex>
+      <vertex id="195" x="449.7226" z="-21.452906"></vertex>
+      <vertex id="194" x="476.05252" z="-20.288898"></vertex>
+      <entry type="polygon" id_list="212 211 210 209 208 207 206 205 204 203 202 201 200 199 
+         198 197 196 195 194 193 192 191 190 189 187 188 434 433 432 
+         213 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="187 189 190 191 192 193 194 195 196 197 198 199 200 201 
+         202 203 204 205 206 207 208 209 210 211 212 213 478 477 476 
+         475 188 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="12" x_start="0.0" y_start="263.0" x_end="650.0" y_end="263.0"></cross_section>
+      <vertex id="471" x="650.0" z="-50.0"></vertex>
+      <vertex id="472" x="500.17014" z="-50.0"></vertex>
+      <vertex id="473" x="325.0" z="-50.0"></vertex>
+      <vertex id="474" x="0.0" z="-50.0"></vertex>
+      <vertex id="186" x="0.3497398" z="-24.016582"></vertex>
+      <vertex id="185" x="28.245333" z="-21.493637"></vertex>
+      <vertex id="184" x="82.1604" z="-25.179525"></vertex>
+      <vertex id="183" x="127.23941" z="-23.891308"></vertex>
+      <vertex id="182" x="162.30623" z="-23.752016"></vertex>
+      <vertex id="181" x="196.36972" z="-22.287886"></vertex>
+      <vertex id="180" x="224.3424" z="-22.802507"></vertex>
+      <vertex id="179" x="241.4061" z="-22.454824"></vertex>
+      <vertex id="178" x="261.9354" z="-19.649807"></vertex>
+      <vertex id="177" x="279.4313" z="-18.211641"></vertex>
+      <vertex id="176" x="289.7981" z="-25.058105"></vertex>
+      <vertex id="175" x="299.37695" z="-16.32216"></vertex>
+      <vertex id="174" x="315.2563" z="-22.48234"></vertex>
+      <vertex id="173" x="331.56033" z="-18.908112"></vertex>
+      <vertex id="172" x="352.1136" z="-21.470184"></vertex>
+      <vertex id="171" x="369.60898" z="-22.62648"></vertex>
+      <vertex id="170" x="392.66287" z="-23.532297"></vertex>
+      <vertex id="169" x="417.97043" z="-23.98718"></vertex>
+      <vertex id="168" x="449.7226" z="-23.188908"></vertex>
+      <vertex id="167" x="476.05252" z="-19.581816"></vertex>
+      <vertex id="166" x="501.92633" z="-19.217295"></vertex>
+      <vertex id="165" x="531.5161" z="-19.605242"></vertex>
+      <vertex id="164" x="555.563" z="-19.17846"></vertex>
+      <vertex id="163" x="585.47797" z="-21.011692"></vertex>
+      <vertex id="162" x="613.13776" z="-22.108498"></vertex>
+      <vertex id="161" x="650.0" z="-20.782179"></vertex>
+      <vertex id="160" x="637.53503" z="-19.828129"></vertex>
+      <vertex id="431" x="650.0" z="0.0"></vertex>
+      <vertex id="430" x="325.0" z="0.0"></vertex>
+      <vertex id="429" x="0.0" z="0.0"></vertex>
+      <entry type="polygon" id_list="185 184 183 182 181 180 179 178 177 176 175 174 173 172 
+         171 170 169 168 167 166 165 164 163 162 160 161 431 430 429 
+         186 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="160 162 163 164 165 166 167 168 169 170 171 172 173 174 
+         175 176 177 178 179 180 181 182 183 184 185 186 474 473 472 
+         471 161 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="7" x_start="0.0" y_start="300.0" x_end="650.0" y_end="300.0"></cross_section>
+      <vertex id="426" x="0.0" z="0.0"></vertex>
+      <vertex id="427" x="433.33334" z="0.0"></vertex>
+      <vertex id="428" x="650.0" z="0.0"></vertex>
+      <vertex id="470" x="0.0" z="-50.0"></vertex>
+      <vertex id="469" x="433.33334" z="-50.0"></vertex>
+      <vertex id="468" x="650.0" z="-50.0"></vertex>
+      <vertex id="159" x="0.26292375" z="-22.871895"></vertex>
+      <vertex id="158" x="44.057602" z="-22.289919"></vertex>
+      <vertex id="157" x="84.49872" z="-21.449232"></vertex>
+      <vertex id="156" x="121.75129" z="-22.497927"></vertex>
+      <vertex id="155" x="174.46808" z="-22.846125"></vertex>
+      <vertex id="154" x="205.86949" z="-22.62735"></vertex>
+      <vertex id="153" x="236.20207" z="-18.68605"></vertex>
+      <vertex id="152" x="263.719" z="-20.563763"></vertex>
+      <vertex id="151" x="282.93707" z="-16.054888"></vertex>
+      <vertex id="150" x="297.5798" z="-19.490122"></vertex>
+      <vertex id="149" x="313.56036" z="-14.429069"></vertex>
+      <vertex id="148" x="324.52798" z="-19.132595"></vertex>
+      <vertex id="147" x="338.42725" z="-15.296701"></vertex>
+      <vertex id="146" x="354.472" z="-19.332283"></vertex>
+      <vertex id="145" x="370.41635" z="-20.120752"></vertex>
+      <vertex id="144" x="390.80835" z="-20.582453"></vertex>
+      <vertex id="143" x="424.87753" z="-25.206059"></vertex>
+      <vertex id="142" x="453.53845" z="-24.33714"></vertex>
+      <vertex id="141" x="477.48618" z="-23.799778"></vertex>
+      <vertex id="140" x="495.72864" z="-23.06377"></vertex>
+      <vertex id="139" x="510.039" z="-19.475256"></vertex>
+      <vertex id="138" x="527.5435" z="-21.902239"></vertex>
+      <vertex id="137" x="548.4092" z="-18.599611"></vertex>
+      <vertex id="136" x="572.9168" z="-18.436869"></vertex>
+      <vertex id="135" x="597.8395" z="-20.911772"></vertex>
+      <vertex id="134" x="616.7852" z="-18.229336"></vertex>
+      <vertex id="133" x="649.4863" z="-20.097298"></vertex>
+      <vertex id="132" x="637.65015" z="-22.03286"></vertex>
+      <entry type="polygon" id_list="158 157 156 155 154 153 152 151 150 149 148 147 146 145 
+         144 143 142 141 140 139 138 137 136 135 134 132 133 428 427 
+         426 159 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="132 134 135 136 137 138 139 140 141 142 143 144 145 146 
+         147 148 149 150 151 152 153 154 155 156 157 158 159 470 469 
+         468 133 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="13" x_start="0.0" y_start="338.0" x_end="650.0" y_end="338.0"></cross_section>
+      <vertex id="467" x="0.0" z="-50.0"></vertex>
+      <vertex id="466" x="433.33334" z="-50.0"></vertex>
+      <vertex id="465" x="650.0" z="-50.0"></vertex>
+      <vertex id="425" x="650.0" z="0.0"></vertex>
+      <vertex id="424" x="433.33334" z="0.0"></vertex>
+      <vertex id="423" x="0.0" z="0.0"></vertex>
+      <vertex id="131" x="0.26292375" z="-23.575258"></vertex>
+      <vertex id="130" x="44.057602" z="-20.720335"></vertex>
+      <vertex id="129" x="84.49872" z="-22.058374"></vertex>
+      <vertex id="128" x="121.75129" z="-20.662176"></vertex>
+      <vertex id="127" x="174.46808" z="-22.597494"></vertex>
+      <vertex id="126" x="205.86949" z="-23.804276"></vertex>
+      <vertex id="125" x="236.20207" z="-20.683374"></vertex>
+      <vertex id="124" x="263.719" z="-21.189236"></vertex>
+      <vertex id="123" x="282.93707" z="-16.55319"></vertex>
+      <vertex id="122" x="297.5798" z="-19.428293"></vertex>
+      <vertex id="121" x="313.56036" z="-17.958475"></vertex>
+      <vertex id="120" x="324.52798" z="-19.111427"></vertex>
+      <vertex id="119" x="338.42725" z="-15.789796"></vertex>
+      <vertex id="118" x="354.472" z="-19.279667"></vertex>
+      <vertex id="117" x="370.41635" z="-18.845444"></vertex>
+      <vertex id="116" x="390.80835" z="-17.839819"></vertex>
+      <vertex id="115" x="424.87753" z="-20.930561"></vertex>
+      <vertex id="114" x="453.53845" z="-22.288315"></vertex>
+      <vertex id="113" x="477.48618" z="-20.678974"></vertex>
+      <vertex id="112" x="495.72864" z="-21.26832"></vertex>
+      <vertex id="111" x="510.039" z="-18.528343"></vertex>
+      <vertex id="110" x="527.5435" z="-21.690577"></vertex>
+      <vertex id="109" x="548.4092" z="-18.431152"></vertex>
+      <vertex id="108" x="572.9168" z="-18.865269"></vertex>
+      <vertex id="107" x="597.8395" z="-20.138546"></vertex>
+      <vertex id="106" x="616.7852" z="-17.425476"></vertex>
+      <vertex id="105" x="637.65015" z="-19.531065"></vertex>
+      <vertex id="104" x="649.4863" z="-20.097298"></vertex>
+      <entry type="polygon" id_list="130 129 128 127 126 125 124 123 122 121 120 119 118 117 
+         116 115 114 113 112 111 110 109 108 107 106 105 104 425 424 
+         423 131 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="105 106 107 108 109 110 111 112 113 114 115 116 117 118 
+         119 120 121 122 123 124 125 126 127 128 129 130 131 467 466 
+         465 104 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="8" x_start="0.0" y_start="375.0" x_end="650.0" y_end="375.0"></cross_section>
+      <vertex id="96" x="202.77238" z="-21.699005"></vertex>
+      <vertex id="95" x="228.34338" z="-23.42421"></vertex>
+      <vertex id="94" x="247.15714" z="-21.431892"></vertex>
+      <vertex id="93" x="270.88098" z="-23.829247"></vertex>
+      <vertex id="92" x="297.79788" z="-20.838255"></vertex>
+      <vertex id="91" x="331.35147" z="-18.175163"></vertex>
+      <vertex id="90" x="361.2449" z="-16.597063"></vertex>
+      <vertex id="89" x="390.4069" z="-17.650766"></vertex>
+      <vertex id="88" x="429.18228" z="-17.713726"></vertex>
+      <vertex id="87" x="458.01373" z="-18.644796"></vertex>
+      <vertex id="86" x="482.419" z="-20.499136"></vertex>
+      <vertex id="85" x="506.26453" z="-19.85397"></vertex>
+      <vertex id="84" x="531.9418" z="-20.300251"></vertex>
+      <vertex id="83" x="554.33655" z="-18.980892"></vertex>
+      <vertex id="82" x="574.2277" z="-21.242569"></vertex>
+      <vertex id="81" x="606.84406" z="-20.321276"></vertex>
+      <vertex id="80" x="630.23584" z="-18.555971"></vertex>
+      <vertex id="79" x="649.6831" z="-20.483673"></vertex>
+      <vertex id="78" x="639.1508" z="-20.463032"></vertex>
+      <vertex id="464" x="0.0" z="-50.0"></vertex>
+      <vertex id="463" x="541.6667" z="-50.0"></vertex>
+      <vertex id="462" x="650.0" z="-50.0"></vertex>
+      <vertex id="422" x="650.0" z="0.0"></vertex>
+      <vertex id="421" x="541.6667" z="0.0"></vertex>
+      <vertex id="420" x="0.0" z="0.0"></vertex>
+      <vertex id="103" x="-0.02339151" z="-21.87492"></vertex>
+      <vertex id="102" x="32.08128" z="-19.702194"></vertex>
+      <vertex id="101" x="58.484802" z="-20.639399"></vertex>
+      <vertex id="100" x="94.95662" z="-17.352608"></vertex>
+      <vertex id="99" x="123.1654" z="-20.285746"></vertex>
+      <vertex id="98" x="148.3862" z="-18.594507"></vertex>
+      <vertex id="97" x="176.38158" z="-20.157066"></vertex>
+      <entry type="polygon" id_list="102 101 100 99 98 97 96 95 94 93 92 91 90 89 
+         88 87 86 85 84 83 82 81 80 78 79 422 421 420 103 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="78 80 81 82 83 84 85 86 87 88 89 90 91 92 
+         93 94 95 96 97 98 99 100 101 102 103 464 463 462 79 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="14" x_start="0.0" y_start="413.0" x_end="650.0" y_end="413.0"></cross_section>
+      <vertex id="461" x="0.0" z="-50.0"></vertex>
+      <vertex id="77" x="-0.02339151" z="-23.217846"></vertex>
+      <vertex id="76" x="32.08128" z="-22.208508"></vertex>
+      <vertex id="75" x="58.484802" z="-21.396751"></vertex>
+      <vertex id="74" x="94.95662" z="-20.633265"></vertex>
+      <vertex id="73" x="123.1654" z="-17.991623"></vertex>
+      <vertex id="72" x="148.3862" z="-21.35118"></vertex>
+      <vertex id="71" x="176.38158" z="-20.52578"></vertex>
+      <vertex id="70" x="202.77238" z="-21.192799"></vertex>
+      <vertex id="69" x="228.34338" z="-25.674809"></vertex>
+      <vertex id="68" x="247.15714" z="-20.490204"></vertex>
+      <vertex id="67" x="270.88098" z="-23.439508"></vertex>
+      <vertex id="66" x="297.79788" z="-20.55782"></vertex>
+      <vertex id="65" x="331.35147" z="-20.793365"></vertex>
+      <vertex id="64" x="361.2449" z="-19.408665"></vertex>
+      <vertex id="63" x="390.4069" z="-17.816618"></vertex>
+      <vertex id="62" x="429.18228" z="-19.665676"></vertex>
+      <vertex id="61" x="458.01373" z="-21.989458"></vertex>
+      <vertex id="60" x="482.419" z="-19.17223"></vertex>
+      <vertex id="59" x="506.26453" z="-20.417217"></vertex>
+      <vertex id="58" x="531.9418" z="-20.948877"></vertex>
+      <vertex id="57" x="554.33655" z="-19.446928"></vertex>
+      <vertex id="56" x="574.2277" z="-19.73048"></vertex>
+      <vertex id="55" x="606.84406" z="-18.938684"></vertex>
+      <vertex id="54" x="630.23584" z="-17.734352"></vertex>
+      <vertex id="53" x="649.6831" z="-20.483673"></vertex>
+      <vertex id="52" x="639.1508" z="-20.463032"></vertex>
+      <vertex id="419" x="650.0" z="0.0"></vertex>
+      <vertex id="418" x="541.6667" z="0.0"></vertex>
+      <vertex id="417" x="0.0" z="0.0"></vertex>
+      <vertex id="459" x="650.0" z="-50.0"></vertex>
+      <vertex id="460" x="541.6667" z="-50.0"></vertex>
+      <entry type="polygon" id_list="76 75 74 73 72 71 70 69 68 67 66 65 64 63 
+         62 61 60 59 58 57 56 55 54 52 53 419 418 417 77 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="52 54 55 56 57 58 59 60 61 62 63 64 65 66 
+         67 68 69 70 71 72 73 74 75 76 77 461 460 459 53 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="15" x_start="0.0" y_start="435.0" x_end="650.0" y_end="435.0"></cross_section>
+      <vertex id="415" x="541.6667" z="0.0"></vertex>
+      <vertex id="458" x="0.0" z="-50.0"></vertex>
+      <vertex id="457" x="541.6667" z="-50.0"></vertex>
+      <vertex id="456" x="650.0" z="-50.0"></vertex>
+      <vertex id="51" x="-0.5604025" z="-34.846382"></vertex>
+      <vertex id="49" x="30.9391" z="-23.948975"></vertex>
+      <vertex id="47" x="59.204296" z="-23.635777"></vertex>
+      <vertex id="45" x="95.573326" z="-24.598629"></vertex>
+      <vertex id="43" x="124.09046" z="-24.236374"></vertex>
+      <vertex id="41" x="149.88379" z="-22.060595"></vertex>
+      <vertex id="39" x="177.21356" z="-22.70978"></vertex>
+      <vertex id="36" x="203.38103" z="-19.839361"></vertex>
+      <vertex id="35" x="228.17699" z="-25.048586"></vertex>
+      <vertex id="33" x="250.69196" z="-22.317213"></vertex>
+      <vertex id="31" x="272.2949" z="-22.721842"></vertex>
+      <vertex id="29" x="301.8669" z="-25.671041"></vertex>
+      <vertex id="416" x="650.0" z="0.0"></vertex>
+      <vertex id="27" x="332.1272" z="-19.821777"></vertex>
+      <vertex id="414" x="0.0" z="0.0"></vertex>
+      <vertex id="25" x="359.38315" z="-19.088955"></vertex>
+      <vertex id="23" x="390.4069" z="-18.018915"></vertex>
+      <vertex id="20" x="429.18228" z="-18.441587"></vertex>
+      <vertex id="18" x="458.35706" z="-19.249567"></vertex>
+      <vertex id="16" x="482.419" z="-21.12795"></vertex>
+      <vertex id="14" x="506.26453" z="-19.701836"></vertex>
+      <vertex id="12" x="531.9418" z="-21.217896"></vertex>
+      <vertex id="11" x="554.33655" z="-22.647636"></vertex>
+      <vertex id="8" x="573.44336" z="-21.03991"></vertex>
+      <vertex id="6" x="606.84406" z="-22.00708"></vertex>
+      <vertex id="4" x="630.23584" z="-21.822374"></vertex>
+      <vertex id="1" x="649.6831" z="-20.483673"></vertex>
+      <vertex id="0" x="639.1508" z="-20.463032"></vertex>
+      <entry type="polygon" id_list="49 47 45 43 41 39 36 35 33 31 29 27 25 23 
+         20 18 16 14 12 11 8 6 4 0 1 416 415 414 51 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="0 4 6 8 11 12 14 16 18 20 23 25 27 29 
+         31 33 35 36 39 41 43 45 47 49 51 458 457 456 1 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+   <geometry>
+      <cross_section name="9" x_start="0.0" y_start="440.0" x_end="650.0" y_end="440.0"></cross_section>
+      <vertex id="412" x="541.6667" z="0.0"></vertex>
+      <vertex id="455" x="650.0" z="-50.0"></vertex>
+      <vertex id="454" x="541.6667" z="-50.0"></vertex>
+      <vertex id="453" x="0.0" z="-50.0"></vertex>
+      <vertex id="50" x="0.31163564" z="-36.3225"></vertex>
+      <vertex id="48" x="32.603073" z="-32.267483"></vertex>
+      <vertex id="46" x="65.132324" z="-33.553707"></vertex>
+      <vertex id="44" x="96.60429" z="-30.204617"></vertex>
+      <vertex id="42" x="126.77176" z="-25.460289"></vertex>
+      <vertex id="40" x="150.95631" z="-29.003202"></vertex>
+      <vertex id="38" x="180.07361" z="-28.215868"></vertex>
+      <vertex id="37" x="202.48726" z="-30.349377"></vertex>
+      <vertex id="34" x="228.39996" z="-26.287409"></vertex>
+      <vertex id="32" x="251.58383" z="-25.596354"></vertex>
+      <vertex id="30" x="272.62933" z="-30.041067"></vertex>
+      <vertex id="28" x="301.8669" z="-26.16687"></vertex>
+      <vertex id="26" x="332.1272" z="-18.548357"></vertex>
+      <vertex id="413" x="0.0" z="0.0"></vertex>
+      <vertex id="24" x="359.75894" z="-11.772167"></vertex>
+      <vertex id="411" x="650.0" z="0.0"></vertex>
+      <vertex id="22" x="390.5948" z="-8.37893"></vertex>
+      <vertex id="21" x="428.99442" z="-5.623145"></vertex>
+      <vertex id="19" x="455.72665" z="-11.068918"></vertex>
+      <vertex id="17" x="479.9765" z="-11.58925"></vertex>
+      <vertex id="15" x="505.88876" z="-13.519623"></vertex>
+      <vertex id="13" x="530.43866" z="-13.048537"></vertex>
+      <vertex id="10" x="553.7729" z="-12.605146"></vertex>
+      <vertex id="9" x="573.44336" z="-7.8550286"></vertex>
+      <vertex id="7" x="604.0403" z="-12.387498"></vertex>
+      <vertex id="5" x="627.597" z="-8.976233"></vertex>
+      <vertex id="3" x="637.9963" z="-9.742642"></vertex>
+      <vertex id="2" x="649.3533" z="-10.25807"></vertex>
+      <entry type="polygon" id_list="48 46 44 42 40 38 37 34 32 30 28 26 24 22 
+         21 19 17 15 13 10 9 7 5 3 2 411 412 413 50 ">
+         <property name="body" value="crust "></property>
+      </entry>
+      <entry type="polygon" id_list="3 5 7 9 10 13 15 17 19 21 22 24 26 28 
+         30 32 34 37 38 40 42 44 46 48 50 453 454 455 2 ">
+         <property name="body" value="upper_mantle "></property>
+      </entry>
+   </geometry>
+</geodata>

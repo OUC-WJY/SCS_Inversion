@@ -1,0 +1,26 @@
+# Python 忽略文件
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+env/
+.env
+
+
+# 数据文件（根据需要屏蔽）
+*.mat
+*.nc
+*.grd
+*.h5
+*.csv
+*.png
+*.jpg
+*.pdf
+*.eps
+*.zip
+*.npz
+*.txt
+.ipynb_checkpoints/
+out/Outdata/igmas/non_border/
+out/Outdata/igmas/IGMAS/
+data/GlobSed/GlobSed/
